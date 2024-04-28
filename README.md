@@ -1,3 +1,5 @@
+All further updates will be pushed to the [PiShock owned repo](https://github.com/PiShock-Inc/MultiShock)
+
 # IF MARKED AS VIRUS
 https://github.com/bwmp/MultiShock/assets/67001116/20e082d4-337f-428b-a883-e0e22ad5b700
 
